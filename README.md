@@ -12,5 +12,7 @@
                            
                            Technology used:
                             .Framework used is MEDIAPIPE developed by google.
+                            .Convolutional Neural Networks, also known as convnets, 
+                              a type of deep-learning model almost universally used in computer vision applications.
                            
     
