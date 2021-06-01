@@ -16,5 +16,7 @@
                             a type of deep-learning model almost universally used in computer vision applications.
                             .We can  apply convnets to image-classification 
                             problem—in particular those involving small training datasets.
+                            
+                            Time:
                            
     
