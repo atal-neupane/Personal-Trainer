@@ -16,6 +16,9 @@
                             a type of deep-learning model almost universally used in computer vision applications.
                             .We can  apply convnets to image-classification 
                             problem—in particular those involving small training datasets.
+                            .Tensorflow and keras.
+                            
+                            Note that in order to use Keras, you need to install TensorFlow
                             
                             Time:
                            
