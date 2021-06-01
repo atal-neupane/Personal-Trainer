@@ -13,7 +13,8 @@
                            Technology used:
                             .Framework used is MEDIAPIPE developed by google.
                             .Convolutional Neural Networks, also known as convnets, 
-                              a type of deep-learning model almost universally used in computer vision applications.
-                            .We can  apply convnets to image-classification problems—in particular those involving small training datasets.
+                            a type of deep-learning model almost universally used in computer vision applications.
+                            .We can  apply convnets to image-classification 
+                            problem—in particular those involving small training datasets.
                            
     
