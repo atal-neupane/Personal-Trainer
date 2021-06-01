@@ -9,4 +9,8 @@
     Real -world solutions: Big help for people who can only talk in sign-languages,
                            Other People can easily understand the gestures made.
                            
+                           
+                           Technology used:
+                            .Framework used is MEDIAPIPE developed by google.
+                           
     
