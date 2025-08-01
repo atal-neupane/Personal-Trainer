@@ -1,2 +1,2 @@
-[📄 View PDF Report](docs/report.pdf)
+[📄 View PDF Report](docs/Report.pdf)
 
